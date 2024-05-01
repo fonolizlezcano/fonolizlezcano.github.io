@@ -322,8 +322,8 @@ a {
     overflow: hidden;
 }
 .yoga-template .yogaPlace-section .yogaPlace-img .yogaPlace-in-img {
-	max-width: 145px;
-    border-radius: 50%;
+	max-width: 220px;
+    /* border-radius: 50%; */
 }
 .yoga-template .yogaPlace-section .yogaPlace-col a:hover {
 	text-decoration: none;
