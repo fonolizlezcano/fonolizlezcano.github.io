@@ -160,7 +160,7 @@ a {
 	letter-spacing: 0.6px;
 	font-weight: 700;
 	padding: 21px 32px 19px;
-	background-color: #fe86d4;
+	background-color: #CAF0F8;
 	color:#fff;
 	border-radius: 3px;
 	text-transform: uppercase;
@@ -181,7 +181,7 @@ a {
 }
 .yoga-template .service-section .service-detail a:hover .service-title{
 	text-decoration: none;
-	color: #fe86d4;
+	color: #CAF0F8;
 }
 .yoga-template .service-section .service-title {
 	font-family: 'Josefin Sans', sans-serif;
